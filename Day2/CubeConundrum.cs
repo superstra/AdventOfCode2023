@@ -1,9 +1,6 @@
 ﻿// Author: superstra
 // Date: Dec 2nd, 2023
 
-using System.Collections;
-using System.Diagnostics.CodeAnalysis;
-using System.Text;
 using System.Text.RegularExpressions;
 
 namespace Day2;
