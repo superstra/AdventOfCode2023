@@ -1,11 +1,11 @@
 ﻿// Author: superstra
-// Date: Dec 3rd, 2023
+// Date: Dec X, 2023
 
 using System.Text.RegularExpressions;
 
-namespace Day3;
+namespace DayX;
 
-public class Day3Puzzle
+public class DayXPuzzle
 {
 
     public static void Main(string[] args)
